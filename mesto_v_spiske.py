@@ -26,4 +26,5 @@ all_info = place[num-1].parent.find_all('td')
 
 print(all_info[3].text)
 
+a = input()
 
